@@ -1,2 +1,4 @@
 Hello Github
 main branch change
+Feature branch update
+Merge conflict resolved
